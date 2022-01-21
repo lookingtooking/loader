@@ -1,1 +1,1 @@
-https://lookingtooking.github.io/loader/index.html
+https://lookingtooking.github.io/loader/Index.html
